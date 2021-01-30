@@ -1,8 +1,8 @@
 {
-    "companyName": "Dani_M",
+    "companyName": "DefaultCompany",
     "productName": "Prueba_1",
     "productVersion": "0.1",
-    "dataUrl": "dataUrl": "Prueba_pajaro_1.data.unityweb",
+    "dataUrl": "Prueba_pajaro_1.data.unityweb",
     "wasmCodeUrl": "Prueba_pajaro_1.wasm.code.unityweb",
     "wasmFrameworkUrl": "Prueba_pajaro_1.wasm.framework.unityweb",
     "graphicsAPI": [ "WebGL 2.0", "WebGL 1.0" ],
@@ -14,5 +14,3 @@
     "multithreading": false,
     "unityVersion": "2019.4.18f1"
 }
-
-//"dataUrl": "Prueba_pajaro_1.data.unityweb",
